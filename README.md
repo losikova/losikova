@@ -5,5 +5,5 @@ Currently, I am looking for a new role to achieve professional growth. I'm alway
 
 # SKILLS
 
-**iOS:** Swift, UIKit, SwiftUI, Objective-C, Combine, RxSwift, Realm, CoreData, Alamofire, MVVM, MVI, TCA, CoreML, XCTest, AVFoundation, CoreAnimation, CoreGraphics, CI/CD
+**iOS:** Swift, UIKit, SwiftUI, Objective-C, Combine, RxSwift, Realm, CoreData, Alamofire, MVVM, MVI, TCA, CoreML, XCTest, AVFoundation, CoreAnimation, CoreGraphics, CI/CD  
 **Other:** C++, Kotlin, Fastlane, CocoaPods, SPM, SwiftLint, Git OPENAI, AI
