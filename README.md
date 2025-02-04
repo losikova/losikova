@@ -5,4 +5,4 @@ iOS Developer with more than **5 years** of professional experience in building 
 # SKILLS
 
 **iOS:** Swift, UIKit, SwiftUI, Objective-C, Combine, RxSwift, Realm, CoreData, Alamofire, MVVM, MVI, TCA, CoreML, XCTest, AVFoundation, CoreAnimation, CoreGraphics, CI/CD  
-**Other:** C++, Kotlin, Fastlane, CocoaPods, SPM, SwiftLint, Git OPENAI, AI
+**Other:** C++, Kotlin, Fastlane, CocoaPods, SPM, SwiftLint
